@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Parth Devaliya</h1>
+<h1 align="center">Hi There, I'm Parth Devaliya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web Developer;Always+Learning+New+Tech&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Developer;Always+Learning+New+Tech&center=true&width=500&height=50">
 </p>
 
 <p align="center">
