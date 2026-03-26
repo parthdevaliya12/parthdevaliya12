@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Parth Devaliya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Developer;Node.js+Backend;Always+Learning+New+Tech&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web Developer;Always+Learning+New+Tech&center=true&width=500&height=50">
 </p>
 
 <p align="center">
-  🚀 Full Stack Developer | Passionate about building modern web apps
+  🚀 Full Stack Developer | Web Developer
 </p>
 
 ---
@@ -37,9 +37,6 @@
   </a>
   <a href="https://facebook.com">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
@@ -74,38 +71,16 @@
 <img src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" height="150"/>
 
 </p>
 
 ---
 
-## 📈 Top Languages
-
-<p align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 🧠 Currently Learning
-- 🔥 Advanced React Patterns
-- ⚡ System Design Basics
-- 🧩 Backend Architecture (Microservices)
+- 🔥 Full stack developement
+- ⚡ System Design
+- 🧩 Backend
 
 ---
 
