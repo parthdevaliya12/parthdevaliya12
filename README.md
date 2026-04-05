@@ -26,7 +26,7 @@
 ---
 
 ## 🌐 Portfolio
-👉 [Visit My Portfolio](https://parth-portfolio-12.vercel.app)
+👉 [Visit My Portfolio](https://parthdevaliya.vercel.app)
 
 ---
 
