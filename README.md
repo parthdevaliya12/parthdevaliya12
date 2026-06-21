@@ -35,7 +35,7 @@
   <a href="https://linkedin.com/in/parthdevaliya12">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://facebook.com">
+  <a href="https://facebook.com/parthdevaliya12">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
   </a>
 </p>
@@ -89,8 +89,4 @@
 
 ---
 
-## 🔥 Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
