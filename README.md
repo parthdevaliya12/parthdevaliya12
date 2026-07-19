@@ -21,7 +21,7 @@
 ---
 
 ## 📄 Resume
-👉 [View Resume](https://drive.google.com/file/d/1-enhwPaJtDt8hdOXy8wvp0KwCebDJGCt/view?usp=drive_link)
+👉 [View Resume](https://drive.google.com/file/d/1s1g9e_EC68NvIl12VHgUJ_gSAhzFsOV5/view?usp=drive_link)
 
 ---
 
