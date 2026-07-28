@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  🚀 Full Stack Developer | Web Developer
+  🚀 Full Stack Developer | Software Developer
+  
 </p>
 
 ---
