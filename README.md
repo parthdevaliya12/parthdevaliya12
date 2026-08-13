@@ -12,12 +12,20 @@
 ---
 
 ## 🌟 About Me
-- 💻 Full Stack Developer (Web)
-- ⚡ Frontend: React.js, Tailwind CSS
-- ⚡ Backend: Node.js, PHP, Java
-- ⚡ Database: MySQL, MongoDB 
-- 🌱 Currently learning advanced backend & scalable architecture
-- 🎯 Goal: Build impactful real-world applications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building_%26_Learning-brightgreen?style=for-the-badge&logo=rocket" />
+  <img src="https://img.shields.io/badge/Focus-Scalable_Systems-FF5722?style=for-the-badge&logo=gear" />
+  <img src="https://img.shields.io/badge/Open_To-Collaborations-00B0FF?style=for-the-badge&logo=handshake" />
+</p>
+
+```text
+🚀  Full-Stack Developer | Engineering seamless web experiences from UI to Database.
+⚡  Frontend Precision : Modern, dynamic UIs powered by React.js & Tailwind CSS.
+⚙️  Backend Power     : Robust REST APIs & scalable backend architectures using Node.js, PHP, & Java.
+🗄️  Data Strategy     : Efficient schema design and data modeling with MySQL & MongoDB.
+🌱  Deepening Skills  : System Design, Microservices Architecture, and Cloud Operations.
+🎯  Ultimate Goal     : Building high-impact, production-grade applications that scale.
 
 ---
 
