@@ -97,18 +97,7 @@
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParthDevaliya&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthDevaliya&layout=compact&hide_border=true&langs_count=8" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ParthDevaliya&hide_border=true" />
-</p>
-
----
 
 ## 📈 Contribution Graph
 
@@ -168,42 +157,6 @@ Modern e-commerce application focused on a clean shopping experience.
   </a>
 </p>
 
----
-
-## 🧩 Development Philosophy
-
-```text
-┌───────────────────────────────────────────────┐
-│                                               │
-│   Learn → Build → Break → Debug → Improve    │
-│                                               │
-└───────────────────────────────────────────────┘
-```
-
-I focus on understanding **why** something works rather than simply making it work.
-
-My goal is to gradually write software that is:
-
-* 🧹 Clean
-* ⚡ Efficient
-* 🔐 Secure
-* 📦 Maintainable
-* 📈 Scalable
-* 👨‍💻 Developer-friendly
-
----
-
-## 🎯 2026 Goals
-
-* [x] Build real-world projects
-* [x] Create and deploy applications
-* [ ] Strengthen JavaScript fundamentals
-* [ ] Improve DSA & problem solving
-* [ ] Learn system design fundamentals
-* [ ] Improve backend engineering
-* [ ] Explore cloud technologies
-* [ ] Contribute to open source
-* [ ] Build production-quality applications
 
 ---
 
@@ -260,30 +213,6 @@ My goal is to gradually write software that is:
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ParthDevaliya/ParthDevaliya/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-## 💬 Developer Quote
-
-<p align="center">
-  <i>"Every expert was once a beginner who refused to stop learning."</i>
-</p>
-
-<p align="center">
-  <br />
-  <b>⭐ If you find my work interesting, consider starring my repositories!</b>
-  <br /><br />
-  <img src="https://img.shields.io/badge/Keep-Building-36BCF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Keep-Learning-7F52FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Keep-Improving-00C853?style=for-the-badge" />
-</p>
-
----
 
 <p align="center">
   <b>Made with ❤️ & lots of ☕ by Parth Devaliya</b>
