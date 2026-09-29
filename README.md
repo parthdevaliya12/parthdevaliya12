@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/parthdevaliya12">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/ParthDevaliya">
+  <a href="https://github.com/parthdevaliya12">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
