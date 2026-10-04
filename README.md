@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Parth Devaliya
+# 👋 Hi There, I'am Parth Devaliya
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=MCA+Student+%7C+Software+Developer;Full+Stack+Developer;" />
