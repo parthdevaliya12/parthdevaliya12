@@ -138,7 +138,7 @@ Modern e-commerce application focused on a clean shopping experience.
 </table>
 
 <p align="center">
-  <a href="https://github.com/ParthDevaliya?tab=repositories">
+  <a href="https://github.com/parthdevaliya12?tab=repositories">
     <img src="https://img.shields.io/badge/🚀_Explore_All_Projects-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
