@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Parth Devaliya
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=MCA+Student+%7C+Software+Developer;Full+Stack+Developer;Building+%26+Learning+Every+Day;Turning+Ideas+Into+Real+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=MCA+Student+%7C+Software+Developer;Full+Stack+Developer;" />
 </p>
 
 <p align="center">
