@@ -1,205 +1,248 @@
-# 👋 Hi There, I'am Parth Devaliya
+# 👋 Hi, I'm Parth Devaliya
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=MCA+Student+%7C+Software+Developer;Full+Stack+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=MCA+Student+%7C+Software+Developer;Full-Stack+Application+Developer;Exploring+Backend+Engineering;Building+Projects+That+Solve+Problems" alt="Animated developer introduction" />
 </p>
 
 <p align="center">
-  <a href="https://parthdevaliya.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/parthdevaliya12">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/parthdevaliya12">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://parthdevaliya.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/parthdevaliya12"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/parthdevaliya12"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://drive.google.com/file/d/1s1g9e_EC68NvIl12VHgUJ_gSAhzFsOV5/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-View-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
 </p>
 
-
-## 🧑‍💻 About Me
-
-```text
-🎓 MCA Student passionate about Software Development & Computer Science
-💻 Building projects to strengthen real-world development skills
-⚡ Interested in backend development, APIs, databases & system design
-🌱 Currently improving JavaScript, backend development & software engineering
-🧠 Exploring better architecture, clean code & scalable application design
-🚀 Believe in learning by building, breaking and improving
-```
-
-> **"Don't just learn technology. Build something with it."**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parthdevaliya12&style=flat-square&color=22D3EE&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 💡 About Me
 
-<table>
-<tr>
-<td width="50%">
+I'm an MCA student and aspiring software engineer who enjoys building applications, understanding how systems work, and solving programming problems.
 
-### 💻 Development
+- 🎓 Pursuing a Master of Computer Applications (MCA).
+- 💻 Building full-stack applications with the MERN stack.
+- ⚙️ Exploring backend engineering, REST APIs, authentication, and databases.
+- 🧠 Strengthening JavaScript fundamentals, DSA, and problem-solving.
+- 🏗️ Interested in clean code, system design, and scalable architecture.
+- 🚀 Focused on learning through practical projects and continuous improvement.
 
-* Building full-stack applications
-* Creating REST APIs
-* Working with databases
-* Improving JavaScript fundamentals
-* Exploring backend architecture
-
-</td>
-<td width="50%">
-
-### 🧠 Learning
-
-* System Design
-* Backend Engineering
-* Software Architecture
-* Database Design
-* Cloud & Deployment
-* Data Structures & Algorithms
-
-</td>
-</tr>
-</table>
+> *"Great software is built one problem, one solution, and one improvement at a time."*
 
 ---
+
+## 🧭 Explore My Profile
+
+<p align="center">
+  <a href="#-tech-stack"><img src="https://img.shields.io/badge/01-Tech_Stack-164E63?style=for-the-badge" alt="Tech stack" /></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/02-Projects-312E81?style=for-the-badge" alt="Projects" /></a>
+  <a href="#-github-analytics"><img src="https://img.shields.io/badge/03-Analytics-3F3F46?style=for-the-badge" alt="Analytics" /></a>
+  <a href="#-current-focus"><img src="https://img.shields.io/badge/04-Learning-14532D?style=for-the-badge" alt="Learning" /></a>
+</p>
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
-
+### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="HTML, CSS, JavaScript, React and Tailwind CSS" />
 </p>
 
-### ⚙️ Backend
-
+### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java" alt="Node.js, Express, PHP and Java" />
 </p>
 
-### 🗄️ Databases
-
+### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB and MySQL" />
 </p>
 
-### 🔧 Tools & Platforms
-
+### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Git, GitHub, VS Code, Postman and Vercel" />
 </p>
+
+<details>
+  <summary><b>🔎 Explore my development interests</b></summary>
+
+  <br />
+
+  | Area | What I'm exploring |
+  |---|---|
+  | Application Development | React, Node.js, Express |
+  | API Development | REST APIs, HTTP methods, authentication |
+  | Databases | MongoDB, MySQL, data modelling |
+  | Software Engineering | Clean code, modularity, debugging |
+  | Computer Science | Data structures and algorithms |
+  | Deployment | Environment variables, hosting, production debugging |
+
+</details>
 
 ---
-
 
 ## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td width="50%" valign="top">
 
 ### 💰 SpendIQ
 
-AI-powered expense management application.
+**AI-Powered Expense Tracker**
 
-**Features**
+An application for managing personal finances and understanding spending patterns.
 
-* Expense & income tracking
-* Budget management
-* Transaction history
-* Dashboard analytics
-* AI-assisted financial entries
-* Authentication
+- Income and expense tracking
+- Budget management
+- Interactive analytics dashboard
+- Transaction management
+- AI-assisted transaction categorization
+- User authentication
 
-**Tech:** React • Node.js • MongoDB • AI
+**Stack:** React · Node.js · MongoDB · AI
+
+<p>
+  <a href="https://spendiqai.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-Visit-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="SpendIQ live demo" /></a>
+</p>
 
 </td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛒 Nexiq Smart Store
 
-Modern e-commerce application focused on a clean shopping experience.
+**Full-Stack E-commerce Application**
 
-**Features**
+A mobile accessories shopping platform with customer and administrative features.
 
-* Product browsing
-* Search & filtering
-* Shopping cart
-* Authentication
-* Admin functionality
-* Responsive UI
+- Product browsing and search
+- Shopping cart and checkout
+- Authentication
+- Multiple delivery addresses
+- Order management
+- Admin dashboard
 
-**Tech:** React • Node.js • MongoDB
+**Stack:** React · Node.js · Express · MongoDB
+
+<p>
+  <a href="https://nexiq-ecommerce.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-Visit-4338CA?style=for-the-badge&logo=vercel&logoColor=white" alt="Nexiq live demo" /></a>
+</p>
 
 </td>
-</tr>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 📝 Prose Blog App
+
+**Full-Stack Blogging Platform**
+
+A blogging application for creating, discovering, and managing content.
+
+- Create and manage blog posts
+- Google authentication
+- Explore and save posts
+- Like functionality
+- Profile management
+- AI-assisted content descriptions
+
+**Stack:** React · Node.js · Express · MongoDB
+
+<p>
+  <a href="https://prose-blog-app.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Prose Blog App live demo" /></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 More Projects
+
+I continue experimenting with application development, APIs, databases, and new software engineering concepts.
+
+Explore my repositories to discover more projects, source code, and implementation details.
+
+<p>
+  <a href="https://github.com/parthdevaliya12?tab=repositories"><img src="https://img.shields.io/badge/Explore_Repositories-View_All-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+</p>
+
+</td>
+  </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/parthdevaliya12?tab=repositories">
-    <img src="https://img.shields.io/badge/🚀_Explore_All_Projects-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-
 ---
 
-## 📚 Currently Learning
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-Fundamentals-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Backend-Engineering-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/System-Design-6C63FF?style=for-the-badge&logo=diagrams.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-orange?style=for-the-badge" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=parthdevaliya12&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthdevaliya12&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used programming languages" />
 </p>
 
----
-
-## 🌐 Connect With Me
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=parthdevaliya12&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 <p align="center">
-  <a href="https://parthdevaliya.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-111111?style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/parthdevaliya12">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/parthdevaliya12">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://github.com/ParthDevaliya">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthdevaliya12&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 </p>
 
 ---
 
-## 📄 Resume
+## 🎯 Current Focus
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1s1g9e_EC68NvIl12VHgUJ_gSAhzFsOV5/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/📄_View_My_Resume-Download-0A66C2?style=for-the-badge" />
-  </a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### ⚙️ Backend Engineering
+
+- [ ] Strengthen Node.js and Express fundamentals
+- [ ] Build secure REST APIs
+- [ ] Improve authentication and authorization
+- [ ] Practice database design and query optimization
+- [ ] Learn error handling and testing
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Computer Science
+
+- [ ] Practice JavaScript problem-solving
+- [ ] Learn data structures and algorithms
+- [ ] Understand object-oriented programming
+- [ ] Explore system design fundamentals
+- [ ] Improve debugging and code quality
+
+</td>
+  </tr>
+</table>
+
+## 📚 Learning Journey
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-Deepening_Fundamentals-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Backend-Engineering-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Backend engineering" />
+  <img src="https://img.shields.io/badge/REST-API_Development-0EA5E9?style=flat-square" alt="REST API development" />
+  <img src="https://img.shields.io/badge/DSA-Problem_Solving-EA580C?style=flat-square" alt="DSA" />
+  <img src="https://img.shields.io/badge/System-Design-7C3AED?style=flat-square" alt="System design" />
 </p>
 
 ---
 
-## ⚡ Quick Facts
+## 🤝 Let's Connect
 
-|              |                                           |
-| ------------ | ----------------------------------------- |
-| 🎓 Education | MCA                                       |
-| 💻 Role      | Software Developer / Full Stack Developer |
-| 🌱 Learning  | Backend • System Design • DSA             |
-| 🔨 Building  | Real-world applications                   |
-| 💡 Approach  | Learn by building                         |
-| 🎯 Goal      | Become a strong software engineer         |
+I'm interested in connecting with developers, learning from the community, and exploring opportunities to grow as a software engineer.
+
+<p align="center">
+  <a href="https://parthdevaliya.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio website" /></a>
+  <a href="https://linkedin.com/in/parthdevaliya12"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" /></a>
+  <a href="https://github.com/parthdevaliya12"><img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+</p>
 
 ---
 
-
 <p align="center">
-  <b>Made with ❤️ & lots of ☕ by Parth Devaliya</b>
+  <b>Building. Learning. Improving. Repeating.</b>
+  <br />
+  <sub>Designed with curiosity and built with ❤️ by Parth Devaliya</sub>
 </p>
