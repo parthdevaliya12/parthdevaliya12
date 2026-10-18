@@ -114,9 +114,6 @@ Create, discover, and manage blog content in one application.
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthdevaliya12&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8" alt="Most used languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthdevaliya12&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity" />
-</p>
 
 ---
 
